@@ -1,0 +1,91 @@
+body{
+	background-color: #41b3a3;
+}
+h1{
+	background-color: red;
+}
+table, th, td {
+	border: 1px solid lightgray;
+	padding: 10px;
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	width: 60%;
+	margin: auto;
+	box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+	border-radius: 60px;
+}
+table, th {
+	text-align: left;
+}
+h1{
+	text-align: center;
+}
+h2{
+	background-color: tomato;
+}
+table, tr{
+	height: 20px;
+}
+
+tr:nth-child(odd){
+	background-color: #8ee4af;
+}
+
+tr:nth-child(even){
+	background-color: #379683;
+}
+
+tr:nth-child(odd):hover{
+	background-color: dodgerblue;
+	color: #05386b;
+	transform: scale(1.5);
+	transition: transform 300ms ease-in;
+}
+tr:nth-child(even):hover{
+	background-color: grey;
+	color: skyblue;
+	transform: scale(1.5);
+	transition: transform 300ms ease-in;
+}
+th {
+	background-color: whitesmoke;
+}
+table{
+	font-size: 0.9em;
+}
+a.b{
+	background-color: #379683;
+	border: none;
+	position: absolute;
+	transform: translate(20% 0%);
+	right: 40%;
+	padding: 5px 20px;
+	font-size: 30px;
+	font-weight: bold;
+	display: flex;
+	flex-direction: row;
+	border-radius: 5px;
+}
+
+a.c{
+	background-color: #379683;
+	border: none;
+	position: absolute;
+	transform: translate(20% 0%);
+	left: 40%;
+	padding: 5px 20px;
+	font-size: 30px;
+	font-weight: bold;
+	display: flex;
+	flex-direction: row;
+	border-radius: 5px;
+}
+
+a:hover{
+	background-color:#18f98f;
+	padding: 10px;
+	color: whitesmoke;
+}
