@@ -41,13 +41,13 @@ tr:nth-child(even){
 tr:nth-child(odd):hover{
 	background-color: dodgerblue;
 	color: #05386b;
-	transform: scale(1.5);
+	transform: scale(1.2);
 	transition: transform 300ms ease-in;
 }
 tr:nth-child(even):hover{
 	background-color: grey;
 	color: skyblue;
-	transform: scale(1.5);
+	transform: scale(1.2);
 	transition: transform 300ms ease-in;
 }
 th {
