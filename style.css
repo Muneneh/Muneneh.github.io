@@ -60,10 +60,10 @@ a.b{
 	background-color: #379683;
 	border: none;
 	position: absolute;
-	transform: translate(20% 0%);
+	transform: translate(0% 0%);
 	right: 40%;
 	padding: 5px 20px;
-	font-size: 30px;
+	font-size: 20px;
 	font-weight: bold;
 	display: flex;
 	flex-direction: row;
@@ -74,7 +74,7 @@ a.c{
 	background-color: #379683;
 	border: none;
 	position: absolute;
-	transform: translate(20% 0%);
+	transform: translate(0% 0%);
 	left: 40%;
 	padding: 5px 20px;
 	font-size: 30px;
