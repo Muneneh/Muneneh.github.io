@@ -14,7 +14,7 @@ table {
 	border-collapse: collapse;
 	width: 60%;
 	margin: auto;
-	box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+	box-shadow: -1px 12px 12px -6px rgba(0,0,0,1.0);
 	border-radius: 60px;
 }
 table, th {
@@ -27,7 +27,7 @@ h2{
 	background-color: tomato;
 }
 table, tr{
-	height: 20px;
+	height: 15px;
 }
 
 tr:nth-child(odd){
