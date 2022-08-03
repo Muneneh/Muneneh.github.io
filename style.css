@@ -4,7 +4,7 @@ body{
 	}
 
 h1{
-	background-color: red;
+	background-color: #3361ff;
 }
 table, th, td {
 	border: 1px solid lightgray;
@@ -26,7 +26,7 @@ h1{
 	text-align: center;
 }
 h2{
-	background-color: tomato;
+	background-color: #3361ff;
 }
 table, tr{
 	height: 15px;
