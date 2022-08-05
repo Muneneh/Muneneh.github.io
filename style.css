@@ -1,12 +1,8 @@
 body{
 	background-color: #floralwhite;
-
-
-	}
-*{
 	margin: 0;
 	padding: 0;
-}
+	}
 
 h1{
 	background-color: #3361ff;
@@ -19,7 +15,7 @@ table, th, td {
 
 table {
 	border-collapse: collapse;
-	width: 60%;
+	min-width: 60%;
 	margin: auto;
 	box-shadow: -1px 12px 12px -6px rgba(0,0,0,1.0);
 	border-radius: 60px;
@@ -103,6 +99,7 @@ a.d{
 	display: flex;
 	flex-direction: row;
 	border-radius: 5px;
+	
 }
 
 a:hover{
