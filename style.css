@@ -87,5 +87,47 @@ html, body{
 	padding: 0 .5em;
 }
 
+.data-row{
+	border-bottom: 1px solid black;
+	padding-bottom: 1em;
+	margin-bottom: 1em;
+}
 
+.data-item{
+	padding-right: .5em;
+	display: inline-block;
+}
+.data-no{
+	color: #555;
+	font-weight: bold;
+	width: 11%;
+}
+.data-country{
+	width: 24%;
+}
+
+.data-team{
+	width: 30%;
+}
+.data-odd{
+	width: 7%;
+}
+.data-time{
+	width: 10%;
+}
+.data-date{
+	width: 25%;
+}
+.data-status{
+	width: 7%;
+}
+.data-team-hist{
+	width: 30%;
+}
+.data-stake{
+	width: 7%;
+}
+.reward{
+	width: 7%;
+}
 
