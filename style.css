@@ -116,18 +116,15 @@ html, body{
 	width: 10%;
 }
 .data-date{
-	width: 15%;
+	width: 20%;
 }
 .data-status{
 	width: 7%;
 }
 .data-team-hist{
-	width: 30%;
+	width: 35%;
 }
 .data-stake{
 	width: 7%;
-}
-.reward{
-	width: 12%;
 }
 
