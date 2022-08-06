@@ -141,4 +141,14 @@ html, body{
 	padding: 8px;
 
 }
+.previous{
+	background-color: #33fcff;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+	position: absolute;
+	right: 30%;
 
+.previous:hover{
+	background-color: #36ff33;
+	padding: 8px;
