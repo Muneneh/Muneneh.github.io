@@ -33,7 +33,7 @@ html, body{
 }
 
 .main-header li{
-	padding: 0 5%;
+	padding: 0 3%;
 
 }
 
@@ -126,5 +126,16 @@ html, body{
 }
 .data-stake{
 	width: 10%;
+}
+.next{
+	background-color: #33fcff;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.next:hover{
+	background-color: #36ff33;
+	padding: 8px;
+
 }
 
