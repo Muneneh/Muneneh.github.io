@@ -94,6 +94,11 @@ html, body{
 	margin-bottom: 1em;
 }
 
+.top-row{
+	background-color: #56ccf2;
+	padding-bottom: 6px;
+}
+
 .data-item{
 	padding-right: .5em;
 	display: inline-block;
@@ -134,7 +139,7 @@ html, body{
 	border-radius: 5px;
 	text-decoration: none;
 	position: absolute;
-	left: 30%;
+	right: 30%;
 }
 .next:hover{
 	background-color: #36ff33;
@@ -147,8 +152,9 @@ html, body{
 	border-radius: 5px;
 	text-decoration: none;
 	position: absolute;
-	right: 30%;
+	left: 30%;
 
 .previous:hover{
 	background-color: #36ff33;
 	padding: 8px;
+}
