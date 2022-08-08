@@ -98,6 +98,7 @@ html, body{
 	background-color: #56ccf2;
 	padding-bottom: 7px;
 	font-weight: bold;
+	color: black !important
 }
 
 
@@ -189,8 +190,30 @@ html, body{
   }
 }
 
+.date{
+	color: #000;
+}
 
 
+.country{
+	color: #000;
+}
 
-
-
+.odd{
+	color: #000;
+}
+.no{
+	color: #000;
+}
+.team{
+	color: #000;
+}
+.time{
+	color: #000;
+}
+.status{
+	color: #000;
+}
+.stake{
+	color: #000;
+}
