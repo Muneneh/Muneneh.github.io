@@ -170,3 +170,27 @@ html, body{
 	font-weight: bold;
 	color: #000;
 }
+.win{
+	color: darkgreen;
+}
+.loss{
+	color: red;
+}
+
+.blink{
+  animation: blinker 2.5s linear infinite;
+  color: red;
+  font-size: 2.0em;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+
+
+
+
+
