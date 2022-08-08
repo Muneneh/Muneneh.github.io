@@ -153,8 +153,13 @@ html, body{
 	text-decoration: none;
 	position: absolute;
 	left: 30%;
+}
 
 .previous:hover{
 	background-color: #36ff33;
 	padding: 8px;
+}
+.advice{
+	background-color: #252525;
+
 }
