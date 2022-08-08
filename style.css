@@ -96,8 +96,10 @@ html, body{
 
 .top-row{
 	background-color: #56ccf2;
-	padding-bottom: 6px;
+	padding-bottom: 7px;
+	font-weight: bold;
 }
+
 
 .data-item{
 	padding-right: .5em;
