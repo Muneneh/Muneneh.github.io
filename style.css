@@ -219,6 +219,6 @@ html, body{
 }
 .external-links{
 	display: inline;
-	justify-content: center;
+	justify-content: space-between;
 	padding-right: 10px;
 }
