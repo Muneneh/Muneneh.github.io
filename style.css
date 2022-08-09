@@ -218,7 +218,7 @@ html, body{
 	color: #000;
 }
 .external-links{
-	display: flex;
+	display: inline;
 	justify-content: center;
 	padding-right: 5px;
 }
