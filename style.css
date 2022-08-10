@@ -118,6 +118,10 @@ html, body{
 .data-team{
 	width: 30%;
 }
+.data-team-current{
+	width: 20%;
+}
+
 .data-odd{
 	width: 10%;
 }
