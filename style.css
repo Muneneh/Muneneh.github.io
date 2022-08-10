@@ -101,6 +101,19 @@ html, body{
 	color: black !important
 }
 
+.data-team-current{
+	width: 25%;
+}
+.data-date-current{
+	width: 20%;
+}
+.data-odd-current{
+	width: 20%;
+}
+.data-time-current{
+	width: 20%;
+}
+
 
 .data-item{
 	padding-right: .5em;
@@ -109,7 +122,7 @@ html, body{
 .data-no{
 	color: #555;
 	font-weight: bold;
-	width: 11%;
+	width: 7%;
 }
 .data-country{
 	width: 24%;
@@ -117,9 +130,6 @@ html, body{
 
 .data-team{
 	width: 30%;
-}
-.data-team-current{
-	width: 20%;
 }
 
 .data-odd{
