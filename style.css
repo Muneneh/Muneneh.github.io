@@ -102,13 +102,13 @@ html, body{
 }
 
 .data-team-current{
-	width: 35%;
+	width: 30%;
 }
 .data-date-current{
 	width: 20%;
 }
 .data-odd-current{
-	width: 15%;
+	width: 13%;
 }
 .data-time-current{
 	width: 12%;
@@ -122,7 +122,7 @@ html, body{
 .data-no{
 	color: #555;
 	font-weight: bold;
-	width: 7%;
+	width: 10%;
 }
 .data-country{
 	width: 24%;
